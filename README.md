@@ -118,7 +118,3 @@ finish the reduction. `interpretSolution` reads the resulting RREF of an
 augmented matrix `[A|b]`: any all-zero coefficient row with a nonzero
 constant means no solution; otherwise the rank of the coefficient matrix
 determines whether the solution is unique or there are free variables.
-
-## License
-
-[MIT](LICENSE)
